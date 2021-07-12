@@ -1,0 +1,28 @@
+.card-container {
+	display: flex;
+	flex-direction: column;
+	background-color: #212121;
+	cursor: pointer;
+	-moz-osx-font-smoothing: grayscale;
+	backface-visibility: hidden;
+	transform: translateZ(0);
+	transition: transform 0.25s ease-out;
+}
+
+.card-container:hover {
+	transform: scale(1.05);
+}
+
+h2 {
+	color: #fff;
+	font-size: 2vw;
+	font-weight: 400;
+}
+
+@media (min-width: 991px) {
+	h2 {
+		color: #fff;
+		font-size: 0.75vw;
+		font-weight: 400;
+	}
+}
