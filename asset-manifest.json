@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/monsters-rolodex/static/css/main.af035e61.chunk.css",
-    "main.js": "/monsters-rolodex/static/js/main.6f4c86d8.chunk.js",
-    "main.js.map": "/monsters-rolodex/static/js/main.6f4c86d8.chunk.js.map",
-    "runtime-main.js": "/monsters-rolodex/static/js/runtime-main.038e6550.js",
-    "runtime-main.js.map": "/monsters-rolodex/static/js/runtime-main.038e6550.js.map",
-    "static/js/2.b4a7ccea.chunk.js": "/monsters-rolodex/static/js/2.b4a7ccea.chunk.js",
-    "static/js/2.b4a7ccea.chunk.js.map": "/monsters-rolodex/static/js/2.b4a7ccea.chunk.js.map",
-    "static/js/3.3689c4b3.chunk.js": "/monsters-rolodex/static/js/3.3689c4b3.chunk.js",
-    "static/js/3.3689c4b3.chunk.js.map": "/monsters-rolodex/static/js/3.3689c4b3.chunk.js.map",
-    "index.html": "/monsters-rolodex/index.html",
-    "static/css/main.af035e61.chunk.css.map": "/monsters-rolodex/static/css/main.af035e61.chunk.css.map",
-    "static/js/2.b4a7ccea.chunk.js.LICENSE.txt": "/monsters-rolodex/static/js/2.b4a7ccea.chunk.js.LICENSE.txt"
+    "main.css": "/dota-rolodex/static/css/main.af035e61.chunk.css",
+    "main.js": "/dota-rolodex/static/js/main.6f4c86d8.chunk.js",
+    "main.js.map": "/dota-rolodex/static/js/main.6f4c86d8.chunk.js.map",
+    "runtime-main.js": "/dota-rolodex/static/js/runtime-main.d77cfb65.js",
+    "runtime-main.js.map": "/dota-rolodex/static/js/runtime-main.d77cfb65.js.map",
+    "static/js/2.b4a7ccea.chunk.js": "/dota-rolodex/static/js/2.b4a7ccea.chunk.js",
+    "static/js/2.b4a7ccea.chunk.js.map": "/dota-rolodex/static/js/2.b4a7ccea.chunk.js.map",
+    "static/js/3.3689c4b3.chunk.js": "/dota-rolodex/static/js/3.3689c4b3.chunk.js",
+    "static/js/3.3689c4b3.chunk.js.map": "/dota-rolodex/static/js/3.3689c4b3.chunk.js.map",
+    "index.html": "/dota-rolodex/index.html",
+    "static/css/main.af035e61.chunk.css.map": "/dota-rolodex/static/css/main.af035e61.chunk.css.map",
+    "static/js/2.b4a7ccea.chunk.js.LICENSE.txt": "/dota-rolodex/static/js/2.b4a7ccea.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.038e6550.js",
+    "static/js/runtime-main.d77cfb65.js",
     "static/js/2.b4a7ccea.chunk.js",
     "static/css/main.af035e61.chunk.css",
     "static/js/main.6f4c86d8.chunk.js"
